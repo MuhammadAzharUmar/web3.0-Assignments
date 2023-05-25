@@ -1,0 +1,74 @@
+
+body{
+    background-color: whitesmoke;
+    padding: 20px;
+}
+div {
+    height: 100px;
+    background-color: gainsboro;
+    display: flex;
+    text-align: center;
+    padding-left: 20px;
+
+}
+
+#p14 {
+    background-color: #002699;
+}
+
+
+#p13 {
+    background-color: #0033CC;
+}
+
+#p12 {
+    background-color: #0000FF;
+}
+
+#p11 {
+    background-color: #3366FF;
+}
+
+#p10 {
+    background-color: #6699FF;
+}
+
+#p9 {
+    background-color: #99CCFF;
+}
+
+#p8 {
+    background-color: #CCCCFF;
+}
+
+#p7 {
+    background-color: #33CC33;
+}
+
+#p6 {
+    background-color: #FFCCE5;
+}
+
+#p5 {
+    background-color: #FF99CC;
+}
+
+#p4 {
+    background-color: #FF66B2;
+}
+
+#p3 {
+    background-color: #FF3399;
+}
+
+#p2 {
+    background-color: #FF0080;
+}
+
+#p1 {
+    background-color: #CC0066;
+}
+
+#p0 {
+    background-color: #99004D;
+}
